@@ -1,0 +1,30 @@
+# Call for Demonstrations
+
+The Demonstrations Track of ICDE 2024 invites exciting and highly interactive demonstrations on data engineering research. We solicit demo proposals in all areas of data and knowledge engineering, including but not limited to, database systems, data management and processing techniques, and data-intensive applications. We also encourage submissions from related areas such as DB + X, where X is ML/AI, health, education, visualization, systems, privacy, etc. 
+
+All demonstration submissions must:
+ - Provide the motivation behind the demonstrated concept(s).
+ - Describe the system and the technology.
+ - Explain what features and scenarios will be demonstrated, and
+ - State the novelty and significance of the contribution.
+ - Highlights for Demonstration Track
+
+Demonstrations will be presented at the ICDE 2024 conference and the accompanying manuscripts will be published in the ICDE 2024 proceedings.
+We encourage submissions to include a demonstration video and to creatively use the system on different scenarios, datasets and use cases
+Accompanying paper format is 4 pages, including references.
+Video Submission
+
+We highly encourage the submission of a demonstration video (of up to 5 minutes, 50MB max. file size) together with your demonstration proposal. The purpose of the video is to convey an impression of what will be demonstrated and does not need not show the final, polished version. Both the demonstration proposal and the video will then be accessible by the reviewers. Your video could summarize your demonstration and also audio-visually highlight its most important aspects, such as the user interface, options for user interactions, the system setup, etc. The video should be submitted in MPEG/AVI/MP4 format and be playable by the common media players. Please note that you will need to first finish your demo proposal submission, and then edit it to add the video as a supplementary file.
+
+# Important Dates:
+ - Demo submission due: October 23, 2023 (Monday)
+ - Notification of acceptance: December 9, 2023 (Saturday)
+ - Camera-ready copy due: February 9, 2024 (Friday)
+All deadlines are 11:59PM Anywhere on Earth (AoE).
+
+# Demonstrations Chairs
+Asterios Katsifodimos, TU Delft, Netherlands
+Angela Bonifati, Lyon 1 University, France
+Wookey Lee, INHA University, South Korea
+
+More information: https://icde2024.github.io/CFP_demos.html
