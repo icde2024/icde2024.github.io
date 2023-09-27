@@ -48,6 +48,10 @@ A:hover
 .linkfooter A:visited{color: #367594;text-decoration: none; font-size: 9px;font-weight:bold; font-family:  Verdana, Arial, Helvetica, sans-serif;}
 .linkfooter A:hover{color: #367594; text-decoration: none; font-size: 9px;font-weight:bold; font-family:  Verdana, Arial, Helvetica, sans-serif;}
 
+iframe.instagram-media.instagram-media-rendered, .twitter-tweet.twitter-tweet-rendered {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}	
 
 .PageHeader 
 {
