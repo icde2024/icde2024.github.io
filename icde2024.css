@@ -111,7 +111,12 @@ border-color: #996666;
  text-align:justify;
 }
 
-.twtr-hd h3, .twtr-hd a { display: none;}
+.twtr-hd h3, .twtr-hd a { font-size: 55%; display: none;}
+
+.twtr-tweet-text {
+    font-size: 205%;
+    font-family: Georgia, Serif;
+}
 
 .title{
 margin:0px;
