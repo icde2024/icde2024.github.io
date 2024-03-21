@@ -359,6 +359,21 @@ font-weight:bold;
 	border-radius: 7px;
 	padding: 5px;
   }
+  .blue-line{
+    background-color: lightgray; /* Set the background color for the row */
+	padding: 0; /* Remove padding to avoid white spaces */
+}
+.green-line{
+    background-color: lightgreen; /* Set the background color for the row */
+	padding: 0; /* Remove padding to avoid white spaces */
+}
+.black-line{
+    background-color: black; /* Set the background color for the row */
+	padding: 0; /* Remove padding to avoid white spaces */
+	height: 1px;
+	overflow: hidden;
+}
+
 
 .cellResearch {
 	padding: 5px;
