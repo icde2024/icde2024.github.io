@@ -364,7 +364,8 @@ font-weight:bold;
 	padding: 0; /* Remove padding to avoid white spaces */
 }
 .green-line{
-    background-color: lightgreen; /* Set the background color for the row */
+    background-color: rgb(204, 255, 204);
+	/* Set the background color for the row */
 	padding: 0; /* Remove padding to avoid white spaces */
 }
 .black-line{
