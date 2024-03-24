@@ -353,21 +353,35 @@ font-weight:bold;
 	border: 1px solid black;
 	border-radius: 7px;
 	padding: 15px;
-  }
-  .tblCellHead{
+}
+
+.tblCellHead{
 	border: 0px solid black;
 	border-radius: 7px;
 	padding: 5px;
-  }
-  .blue-line{
-    background-color: lightgray; /* Set the background color for the row */
+}
+
+.vline{
+	background-color: lightgray; /* Set the background color for the row */
 	padding: 0; /* Remove padding to avoid white spaces */
 }
+
+.vlineExt{
+	background-color: black; /* Set the background color for the row */
+	padding: 0; /* Remove padding to avoid white spaces */
+}
+
+.vlineSep{
+	background-color: gray; /* Set the background color for the row */
+	padding: 0; /* Remove padding to avoid white spaces */
+}
+
 .green-line{
     background-color: rgb(204, 255, 204);
 	/* Set the background color for the row */
 	padding: 0; /* Remove padding to avoid white spaces */
 }
+
 .black-line{
     background-color: black; /* Set the background color for the row */
 	padding: 0; /* Remove padding to avoid white spaces */
@@ -376,13 +390,115 @@ font-weight:bold;
 }
 
 
-.cellResearch {
-	padding: 5px;
+.cellTime {
+	padding: 2px;
+	text-align: right;
 }
 
-.cellIndustry{
-	padding: 5px;
+.cellSocial {
+	background-color: lightsalmon;
+	color:#000000;
+	padding: 2px;
+	text-align: center;
 }
+a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
+
+.cellBreak{
+	background-color: lightgray; 
+	color:#000000;
+	padding: 2px;
+	text-align: left;
+}
+
+.cellKeynote{
+	background-color: #A57E25;
+	color:#ffffff;
+	padding: 2px;
+	text-align: left;
+}
+.cellKeynote a:link, .cellKeynote a:visited, .cellKeynote a:visited {color:#ffffff;}
+
+.cellResearch {
+	background-color: #036788;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellResearch a:link, .cellResearch a:visited, .cellResearch a:visited {color:#ffffff;}
+
+
+.cellIndustry{
+	background-color: #990000;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellIndustry a:link, .cellIndustry a:visited, .cellIndustry a:visited {color:#ffffff;}
+
+.cellTutorial{
+	background-color: #375622;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellTutorial a:link, .cellTutorial a:visited, .cellTutorial a:visited {color:#ffffff;}
+
+
+.cellLightning{
+	background-color: #942092;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellLightning a:link, .cellLightning a:visited, .cellLightning a:visited {color:#ffffff;}
+
+.cellPhD{
+	background-color: #305861;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellPhD a:link, .cellPhD a:visited, .cellPhD a:visited {color:#ffffff;}
+
+.cellDEFT{
+	background-color: #805F00;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellDEFT a:link, .cellDEFT a:visited, .cellDEFT a:visited {color:#ffffff;}
+
+.cellBusiness{
+	background-color: #538234;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellBusiness a:link, .cellBusiness a:visited, .cellBusiness a:visited {color:#ffffff;}
+
+.cellPanel{
+	background-color: lightgreen;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellPanel a:link, .cellPanel a:visited, .cellPanel a:visited {color:#ffffff;}
+
+.cellPoster{
+	background-color: #152F51;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellPoster a:link, .cellPoster a:visited, .cellPoster a:visited {color:#ffffff;}
+
+.cellDemo{
+	background-color: #AB4951;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellDemo a:link, .cellDemo a:visited, .cellDemo a:visited {color:#ffffff;}
+
+
+.cellSponsor{
+	background-color: #797979;
+	color:#ffffff;
+	padding: 2px;
+}
+.cellSponsor a:link, .cellSponsor a:visited, .cellSponsor a:visited {color:#ffffff;}
+
+
   /*---------------Carousel----------------------*/
 
 
