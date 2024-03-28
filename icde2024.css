@@ -421,7 +421,7 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 .cellResearch {
 	background-color: #036788;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellResearch a:link, .cellResearch a:visited, .cellResearch a:visited {color:#ffffff;}
 
@@ -429,14 +429,14 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 .cellIndustry{
 	background-color: #990000;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellIndustry a:link, .cellIndustry a:visited, .cellIndustry a:visited {color:#ffffff;}
 
 .cellTutorial{
 	background-color: #375622;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellTutorial a:link, .cellTutorial a:visited, .cellTutorial a:visited {color:#ffffff;}
 
@@ -444,49 +444,49 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 .cellLightning{
 	background-color: #942092;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellLightning a:link, .cellLightning a:visited, .cellLightning a:visited {color:#ffffff;}
 
 .cellPhD{
 	background-color: #305861;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellPhD a:link, .cellPhD a:visited, .cellPhD a:visited {color:#ffffff;}
 
 .cellDEFT{
 	background-color: #805F00;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellDEFT a:link, .cellDEFT a:visited, .cellDEFT a:visited {color:#ffffff;}
 
 .cellBusiness{
 	background-color: #538234;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellBusiness a:link, .cellBusiness a:visited, .cellBusiness a:visited {color:#ffffff;}
 
 .cellPanel{
 	background-color: lightgreen;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellPanel a:link, .cellPanel a:visited, .cellPanel a:visited {color:#ffffff;}
 
 .cellPoster{
 	background-color: #152F51;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellPoster a:link, .cellPoster a:visited, .cellPoster a:visited {color:#ffffff;}
 
 .cellDemo{
 	background-color: #AB4951;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellDemo a:link, .cellDemo a:visited, .cellDemo a:visited {color:#ffffff;}
 
@@ -494,7 +494,7 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 .cellSponsor{
 	background-color: #797979;
 	color:#ffffff;
-	padding: 2px;
+	padding: 5px;
 }
 .cellSponsor a:link, .cellSponsor a:visited, .cellSponsor a:visited {color:#ffffff;}
 
