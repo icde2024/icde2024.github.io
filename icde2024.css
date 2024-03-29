@@ -400,6 +400,7 @@ font-weight:bold;
 	color:#000000;
 	padding: 2px;
 	text-align: center;
+	border-bottom: 1px solid lightgray;
 }
 a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 
@@ -415,6 +416,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	color:#ffffff;
 	padding: 2px;
 	text-align: left;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellKeynote a:link, .cellKeynote a:visited, .cellKeynote a:visited {color:#ffffff;}
 
@@ -422,6 +425,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #036788;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellResearch a:link, .cellResearch a:visited, .cellResearch a:visited {color:#ffffff;}
 
@@ -430,6 +435,9 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #990000;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
+
 }
 .cellIndustry a:link, .cellIndustry a:visited, .cellIndustry a:visited {color:#ffffff;}
 
@@ -437,6 +445,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #375622;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellTutorial a:link, .cellTutorial a:visited, .cellTutorial a:visited {color:#ffffff;}
 
@@ -445,6 +455,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #942092;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellLightning a:link, .cellLightning a:visited, .cellLightning a:visited {color:#ffffff;}
 
@@ -452,6 +464,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #305861;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellPhD a:link, .cellPhD a:visited, .cellPhD a:visited {color:#ffffff;}
 
@@ -459,6 +473,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #805F00;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellDEFT a:link, .cellDEFT a:visited, .cellDEFT a:visited {color:#ffffff;}
 
@@ -466,6 +482,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #538234;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellBusiness a:link, .cellBusiness a:visited, .cellBusiness a:visited {color:#ffffff;}
 
@@ -473,6 +491,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: lightgreen;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellPanel a:link, .cellPanel a:visited, .cellPanel a:visited {color:#ffffff;}
 
@@ -480,6 +500,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #152F51;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellPoster a:link, .cellPoster a:visited, .cellPoster a:visited {color:#ffffff;}
 
@@ -487,6 +509,8 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #AB4951;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
+	border-bottom: 1px solid lightgray;
 }
 .cellDemo a:link, .cellDemo a:visited, .cellDemo a:visited {color:#ffffff;}
 
@@ -495,6 +519,7 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 	background-color: #797979;
 	color:#ffffff;
 	padding: 5px;
+	border-left: 1px solid #ffffff;
 }
 .cellSponsor a:link, .cellSponsor a:visited, .cellSponsor a:visited {color:#ffffff;}
 
