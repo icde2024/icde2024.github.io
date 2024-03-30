@@ -1,3 +1,11 @@
+
+@media print {
+    .pagebreak {
+        clear: both;
+        page-break-after: always;
+    }
+}
+
 A:link 
 {
 	/*color:#006cc7;*/
@@ -488,7 +496,7 @@ a.cellSocial:link, a.cellSocial:visited, a.cellSocial:visited {color:#ffffff;}
 .cellBusiness a:link, .cellBusiness a:visited, .cellBusiness a:visited {color:#ffffff;}
 
 .cellPanel{
-	background-color: lightgreen;
+	background-color: #433A52;
 	color:#ffffff;
 	padding: 5px;
 	border-left: 1px solid #ffffff;
