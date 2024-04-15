@@ -152,7 +152,7 @@
 	<!-- HERE STARTS THE CONTENT. -->
 	
 
-	<div class="title">Keynotes</div>
+	<div class="title">Keynotes and Invited Talks</div>
 	<p/>
 	<table id="keynote1" style="width:90%">
 		<tr>
@@ -207,6 +207,23 @@
 				Over the past decade, there has been remarkable progress in the co-design of hardware and software systems for artificial intelligence (AI). Much of this progress has focused on accelerating computationally-intensive operations, such as the matrix multiplications in AI training and inference tasks. This talk will address the broader systems issues that are now emerging as significant bottlenecks for AI workloads. We will review challenges such as making inference resource efficient, optimizing workloads involving multiple AI tasks, and feeding AI workloads with data. We will advocate for the design of AI infrastructure that looks more like the scale-out systems used for cloud computing, rather than the supercomputing systems used for HPC. Finally, we will underscore the need to broaden the scope of AI systems co-design to encompass the applications themselves. 				<p/>
 				<img src="photos/Christos_Kozyrakis.jpeg" width="120" style="padding: 0px;  padding-left: 10px; float: right;"/> <b>Christos Kozyrakis</b> is a Professor of Electrical Engineering and Computer Science at Stanford University. He is also the faculty director of the Stanford Platform Lab. Christos' research focuses on computer architecture and systems software. He is currently working on cloud computing technology, systems design for artificial intelligence, and artificial intelligence for systems design. 
 				Christos holds a BS degree from the University of Crete (Greece) and a PhD degree from the University of California at Berkeley (USA). He is a fellow of the ACM and the IEEE. He has received the ACM SIGARCH Maurice Wilkes Award, the ISCA Influential Paper Award, the ASPLOS Influential Paper Award the NSF Career Award, the Okawa Foundation Research Grant, and faculty awards by IBM, Microsoft, and Google. Christos has also worked for technology companies such as Google and Intel and has helped launch AI infrastructure startups such as Enfabrica and Plix. 
+			</td>
+		</tr>
+	</table>
+
+	<p/>
+	<table id="invited1" style="width:90%">
+		<tr>
+			<th class="tblCellHead" style="background-color:#A57E25;color:white;">Industry Invited Talk</th> 
+		</tr>
+		<tr>
+			<td class="tblCellCnt">
+				<a href="">Deletion Vectors: No-Regrets Row-Level Updates in Delta Lake</a>
+        		<br/> 
+        		by Bart Samwel (Databricks).
+				<p/>
+				Fine-grained updates to traditional Parquet data lakes are inefficient because they require rewriting entire Parquet files even to update only a single row. In recent years, open Lakehouse table formats such as Delta Lake, Apache Iceberg and Apache Hudi have each introduced support for row-level updates. In this talk, we will discuss why row-level updates are important for common workloads. We will then dive into Delta Lake's Deletion Vectors and how they enable row-level updates with virtually no overhead. And finally, we will do a comparative analysis with the techniques that other Lakehouse table formats use to support row-level updates: Iceberg's Position Deletes, and Hudi's Merge-on-Read tables, and show how Deletion Vectors improves on these techniques.<p/>
+				<img src="photos/BartSamwel.png" width="120" style="padding: 0px;  padding-left: 10px; float: right;"/> <b>Bart Samwel</b> is a Principal Engineer at Databricks, based in Amsterdam. He leads an engineering team that focuses on the performance of DML operations on Delta Lake tables such as MERGE, UPDATE and DELETE. With his team, he created Delta Lake's Deletion Vectors. He takes at least partial blame for many other recent innovations in Delta Lake. Outside work, he likes to tinker with coffee and to exercise his vocal chords. 
 			</td>
 		</tr>
 	</table>
