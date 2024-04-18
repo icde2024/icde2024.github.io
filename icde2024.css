@@ -196,6 +196,16 @@ color:#367594;
 
 /*---------------sidebar----------------------*/
 
+table.print-friendly tr td, table.print-friendly tr th {
+	page-break-inside: avoid;
+}
+
+.tr{
+	display:block; 
+	page-break-inside: avoid;
+	page-break-after:auto ''
+}
+
 #sidebar ul {
 	padding: 2px;
 	list-style-type: none;
