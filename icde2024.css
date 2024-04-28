@@ -377,6 +377,7 @@ font-weight:bold;
 .tblCellHead{
 	border: 0px solid black;
 	border-radius: 7px;
+	page-break-inside: avoid;
 	padding: 5px;
 }
 
